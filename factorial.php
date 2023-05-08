@@ -6,7 +6,7 @@
       return $n * factorial($n-1);
     }
   }
-  
+  //todo test to
   $number = 5;
   echo "Die Fakultät von " . $number . " ist " . factorial($number) . ".";
 ?>
