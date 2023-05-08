@@ -2,7 +2,7 @@ name: Static Code Analysis with SonarQube
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   sonarqube:
     runs-on: ubuntu-latest
