@@ -1,0 +1,193 @@
+[{
+    "title": "deutsch (DE)",
+    "countryKey": "de",
+    "languageKey": "de"
+},
+{
+    "title": "deutsch (CH)",
+    "countryKey": "ch",
+    "languageKey": "de"
+},
+{
+    "title": "français (CH)",
+    "countryKey": "ch",
+    "languageKey": "fr"
+},
+{
+    "title": "français canadien",
+    "countryKey": "ca",
+    "languageKey": "fr"
+},
+{
+    "title": "italiano (CH)",
+    "countryKey": "ch",
+    "languageKey": "it"
+},
+{
+    "title": "nederlands (NL)",
+    "countryKey": "nl",
+    "languageKey": "nl"
+},
+{
+    "title": "english (US)",
+    "countryKey": "us",
+    "languageKey": "en"
+},
+{
+    "title": "english (UK)",
+    "countryKey": "gb",
+    "languageKey": "en"
+},
+    {
+    "title": "français (FR)",
+    "countryKey": "fr",
+    "languageKey": "fr"
+},
+    {
+    "title": "español (ES)",
+    "countryKey": "es",
+    "languageKey": "es"
+},
+    {
+    "title": "norsk (NO)",
+    "countryKey": "no",
+    "languageKey": "no"
+},
+    {
+    "title": "中国 (CN)",
+    "countryKey": "cn",
+    "languageKey": "zh"
+},
+    {
+    "title": "english (IE)",
+    "countryKey": "ie",
+    "languageKey": "en"
+},
+    {
+    "title": "english (SG)",
+    "countryKey": "sg",
+    "languageKey": "en"
+},
+    {
+    "title": "english (IN)",
+    "countryKey": "in",
+    "languageKey": "en"
+},
+    {
+    "title": "español (CO)",
+    "countryKey": "co",
+    "languageKey": "es"
+},
+    {
+    "title": "français (BE)",
+    "countryKey": "be",
+    "languageKey": "fr"
+},
+    {
+    "title": "nederlands (BE)",
+    "countryKey": "be",
+    "languageKey": "nl"
+},
+    {
+    "title": "türk (TR)",
+    "countryKey": "tr",
+    "languageKey": "tr"
+},
+    {
+    "title": "deutsch (AT)",
+    "countryKey": "at",
+    "languageKey": "de"
+},
+    {
+    "title": "español (EC)",
+    "countryKey": "ec",
+    "languageKey": "es"
+},
+    {
+    "title": "slovenský (SK)",
+    "countryKey": "sk",
+    "languageKey": "sk"
+},
+    {
+    "title": "русский (RU)",
+    "countryKey": "ru",
+    "languageKey": "ru"
+},
+    {
+    "title": "português (BR)",
+    "countryKey": "br",
+    "languageKey": "pt"
+},
+    {
+    "title": "português (PT)",
+    "countryKey": "pt",
+    "languageKey": "pt"
+},	
+{
+    "title": "italiano (IT)",
+    "countryKey": "it",
+    "languageKey": "it"
+},	
+{
+    "title": "suomalainen (FI)",
+    "countryKey": "fi",
+    "languageKey": "fi"
+},	
+{
+    "title": "english (AU)",
+    "countryKey": "au",
+    "languageKey": "en"
+},	
+{
+    "title": "español (PE)",
+    "countryKey": "pe",
+    "languageKey": "es"
+},	
+{
+    "title": "español (CL)",
+    "countryKey": "cl",
+    "languageKey": "es"
+},	
+{
+    "title": "српски (RS)",
+    "countryKey": "rs",
+    "languageKey": "sr"
+},	
+{
+    "title": "english (ZA)",
+    "countryKey": "za",
+    "languageKey": "en"
+},	
+{
+    "title": "polski (PL)",
+    "countryKey": "pl",
+    "languageKey": "pl"
+},	
+{
+    "title": "čeština (CZ)",
+    "countryKey": "CZ",
+    "languageKey": "cs"
+},	
+{
+    "title": "svenska (SE)",
+    "countryKey": "se",
+    "languageKey": "sv"
+},	
+{
+    "title": "slovenski (SI)",
+    "countryKey": "si",
+    "languageKey": "sl"
+},	
+{
+    "title": "ελληνικά (GRALT)",
+    "countryKey": "gr",
+    "languageKey": "gr"
+},	
+{
+    "title": "ελληνικά (GR)",
+    "countryKey": "gr",
+    "languageKey": "el"
+}
+
+
+]
