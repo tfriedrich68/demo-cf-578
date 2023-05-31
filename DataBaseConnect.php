@@ -17,7 +17,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $name = $_POST["name"];
   $email = $_POST["email"];
   $nachricht = $_POST["nachricht"];
-
+  // lesen schreiben git hub test 
   // SQL-Abfrage zum Einfügen der Daten in die Tabelle "nachrichten"
   $sql = "INSERT INTO nachrichten (name, email, nachricht) VALUES ('$name', '$email', '$nachricht')";
 
